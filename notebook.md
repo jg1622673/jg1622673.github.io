@@ -218,6 +218,20 @@ The code can be repeated forever, a specific number of times (such as when using
   A local variable can be set or used only in the environment in which it is defined. This term includes inputs to procedures and variables created by the for or script variables block.
 </details>
 
+<details>
+  <summary>Predicate</summary>
+  A predicate is a hexagon-shaped reporter that asks a true/false question such as these examples:<img width="201" height="44" alt="6-gt-7-reporting-false" src="https://github.com/user-attachments/assets/ccf713b1-1996-4169-bf8a-ea5d29f301a7" /><img width="201" height="44" alt="8-gt-7-reporting-true" src="https://github.com/user-attachments/assets/497ac1f3-d423-4e65-9c47-f9fecf9b08d2" />
+</details>
+
+<details>
+  <summary> Boolean value</summary>
+  Predicates report a Boolean value (either<img width="104" height="29" alt="true" src="https://github.com/user-attachments/assets/5be3ccce-8086-4a1c-8a1b-ed511121fd79" /> or<img width="104" height="29" alt="false" src="https://github.com/user-attachments/assets/3a66b3d9-8209-4c7e-8ec7-9b92a57eb737" /> ).
+</details>
+
+<details>
+  <summary>If else Block</summary>
+  The if and if-else blocks are called conditionals because they control the code based on a true-or-false condition.
+</details>
 
 
 
@@ -267,7 +281,13 @@ Notice that the hat block, <img width="408" height="75" alt="pinwheel-hat-block"
 
   -This instruction <img width="390" height="36" alt="U1L3-PinwheelwithInputs1" src="https://github.com/user-attachments/assets/e987cff3-b8f7-4072-8a76-d6381cf06c9f" /> would be written as Pinwheel(6, 80, 20) or You may hear people use the term "pseudocode" to refer to this pseudo-language used on the AP CS Principles exam, but it's not pseudocode. Pseudocode isn't a programming language at all, it's the use of normal human language to describe an algorithm.
 
-  -<img width="214" height="37" alt="set-secret-number-to-7" src="https://github.com/user-attachments/assets/f9dc79a1-d9fc-4943-8f0e-3367545658f7" />would be written as <img width="124" height="18" alt="secret-number-assignment-blocktran" src="https://github.com/user-attachments/assets/14741f4a-83aa-4847-a63f-004834a72d8e" />.
+  - <img width="214" height="37" alt="set-secret-number-to-7" src="https://github.com/user-attachments/assets/f9dc79a1-d9fc-4943-8f0e-3367545658f7" />would be written as <img width="124" height="18" alt="secret-number-assignment-blocktran" src="https://github.com/user-attachments/assets/14741f4a-83aa-4847-a63f-004834a72d8e" />.
+
+  - The code <img width="384" height="69" alt="chicken-script" src="https://github.com/user-attachments/assets/2d39c374-a994-4c05-ad93-fe8c4d121a50" />would be written as <img width="341" height="53" alt="chicken-script-blocktran" src="https://github.com/user-attachments/assets/5886e978-bcec-493a-88fc-192420e9af98" />Notice that the procedure INPUT() accepts the value from the user and returns that input value, which is then assigned to the variable userResponse with the ← syntax. In Snap!, this is just like how answer accepts a value from the user and reports it, and that report is what the computer sets the variable user response to.
+
+
+
+
 
 
 
