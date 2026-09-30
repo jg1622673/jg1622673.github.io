@@ -208,6 +208,18 @@ The code can be repeated forever, a specific number of times (such as when using
   An iteration statement contained inside another iteration statement. Ex. 	REPEAT i TIMES inside REPEAT 3 TIMES
 </details>
 
+<details>
+  <summary> Variable</summary>
+  A variable is like a labeled box that can hold one value at a time, such as one word, one costume, or one list (which can contain many things). You can look at what's inside as many times as you want.
+</details>
+
+<details>
+  <summary>Local Variable</summary>
+  A local variable can be set or used only in the environment in which it is defined. This term includes inputs to procedures and variables created by the for or script variables block.
+</details>
+
+
+
 
 
 
@@ -254,6 +266,10 @@ The exam uses "value of a procedure" to mean the value the procedure returns whe
 Notice that the hat block, <img width="408" height="75" alt="pinwheel-hat-block" src="https://github.com/user-attachments/assets/700f9786-bfa5-468b-ae32-938f8a5fd25b" /> would be written as PROCEDURE pinwheel(numberOfBranches). The word PROCEDURE tells you that that line of the code is like a hat block; the variable name in the parentheses on that line is the input that the procedure takes.
 
   -This instruction <img width="390" height="36" alt="U1L3-PinwheelwithInputs1" src="https://github.com/user-attachments/assets/e987cff3-b8f7-4072-8a76-d6381cf06c9f" /> would be written as Pinwheel(6, 80, 20) or You may hear people use the term "pseudocode" to refer to this pseudo-language used on the AP CS Principles exam, but it's not pseudocode. Pseudocode isn't a programming language at all, it's the use of normal human language to describe an algorithm.
+
+  -<img width="214" height="37" alt="set-secret-number-to-7" src="https://github.com/user-attachments/assets/f9dc79a1-d9fc-4943-8f0e-3367545658f7" />would be written as <img width="124" height="18" alt="secret-number-assignment-blocktran" src="https://github.com/user-attachments/assets/14741f4a-83aa-4847-a63f-004834a72d8e" />.
+
+
 
   
 
