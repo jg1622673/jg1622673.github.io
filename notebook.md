@@ -233,6 +233,11 @@ The code can be repeated forever, a specific number of times (such as when using
   The if and if-else blocks are called conditionals because they control the code based on a true-or-false condition.
 </details>
 
+<details>
+  <summary>Global Variable</summary>
+  A global variable is a variable that is usable by all scripts in the program.
+</details>
+
 
 
 
@@ -284,6 +289,11 @@ Notice that the hat block, <img width="408" height="75" alt="pinwheel-hat-block"
   - <img width="214" height="37" alt="set-secret-number-to-7" src="https://github.com/user-attachments/assets/f9dc79a1-d9fc-4943-8f0e-3367545658f7" />would be written as <img width="124" height="18" alt="secret-number-assignment-blocktran" src="https://github.com/user-attachments/assets/14741f4a-83aa-4847-a63f-004834a72d8e" />.
 
   - The code <img width="384" height="69" alt="chicken-script" src="https://github.com/user-attachments/assets/2d39c374-a994-4c05-ad93-fe8c4d121a50" />would be written as <img width="341" height="53" alt="chicken-script-blocktran" src="https://github.com/user-attachments/assets/5886e978-bcec-493a-88fc-192420e9af98" />Notice that the procedure INPUT() accepts the value from the user and returns that input value, which is then assigned to the variable userResponse with the ← syntax. In Snap!, this is just like how answer accepts a value from the user and reports it, and that report is what the computer sets the variable user response to.
+
+  - <img width="210" height="37" alt="change-score-by-1" src="https://github.com/user-attachments/assets/92ab173d-952b-4f1d-b533-22eac6382355" />(which means <img width="288" height="43" alt="set-score-to-score-plus-one" src="https://github.com/user-attachments/assets/cc81427b-7a71-49f4-9f81-d900805d7578" />) would be written as<img width="132" height="19" alt="score-increment-blocktran" src="https://github.com/user-attachments/assets/299de65d-b3ce-41d7-b00a-8d37b39b6cd1" />
+
+
+
 
 
 
