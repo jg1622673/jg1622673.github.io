@@ -6,6 +6,6 @@ I like to play Volleyball, learning in school, and hanging out with my friends. 
 
 ## Navigation
 
-[Notebook](https://github.com/jg1622673/JG1622673.github.io/blob/main/notebook.md))
+[Notebook](notebook.md))
 
 [Home](index.md)
