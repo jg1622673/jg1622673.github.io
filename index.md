@@ -12,5 +12,5 @@ Click here to learn more → [About Me](about.md)
 
 ## Notebook
 
-Click here to go to my notebook → [Notebook](https://github.com/jg1622673/JG1622673.github.io/blob/main/notebook.md)
+Click here to go to my notebook → [Notebook](notebook.md)
 
