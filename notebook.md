@@ -238,6 +238,12 @@ The code can be repeated forever, a specific number of times (such as when using
   A global variable is a variable that is usable by all scripts in the program.
 </details>
 
+<details>
+  <summary>Index</summary>
+  he position number is called the index of the item in the list.<img width="506" height="40" alt="item-2-of-list-reporting" src="https://github.com/user-attachments/assets/803ab56a-2590-49ab-a7f8-80cf7f5a687c" />In this list, 1 is the index of the item "apple," 2 is the index of the item "cantaloupe," and so on.
+In Snap! and on the AP exam, the index is always a whole number (1, 2, 3, 4, etc.). It is an error to use an index less than 1 or greater than the length of the list.
+</details>
+
 
 
 
