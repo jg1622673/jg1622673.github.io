@@ -312,8 +312,7 @@ Notice that the hat block, <img width="408" height="75" alt="pinwheel-hat-block"
 You can assign a list item to a variable. On the exam...
 You can assign any value to a list item (a number, a string, a sprite, a costume, a script, another list, etc.). On the exam...
 
--When you run this script in Snap!, the second line of code assigns to shopping list 2 the value of shopping list (that is, the same list, not a copy). So, the third line of code modifies both variables:<img width="319"height="139" alt="example-list-by-reference-stage" src="https://github.com/user-attachments/assets/af60029a-244b-4728-aa3a-db9401f1ecb8" />
-<img width="364" height="107" alt="example-list-by-reference" src="https://github.com/user-attachments/assets/84eb0899-7aa8-4f54-a3bc-9271f0d7af06" />However on the exam, the statement shoppingList2 ← shoppingList makes a copy of the list. So modifying one of them does not modify the other.
+-When you run this script in Snap!, the second line of code assigns to shopping list 2 the value of shopping list (that is, the same list, not a copy). So, the third line of code modifies both variables:<img width="319" height="139" alt="example-list-by-reference-stage" src="https://github.com/user-attachments/assets/de5778c0-c2cb-40fe-a65b-4f96ec231380" /><img width="364" height="107" alt="example-list-by-reference" src="https://github.com/user-attachments/assets/84eb0899-7aa8-4f54-a3bc-9271f0d7af06" />However on the exam, the statement shoppingList2 ← shoppingList makes a copy of the list. So modifying one of them does not modify the other.
 The rules for how to use lists and how they behave differ depending on the programming language you are using.
 
 
