@@ -269,6 +269,11 @@ Each programming language provides some primitive data types (data types that ar
 Data abstraction is the creation and use of abstract data types in a program.
 </details>
 
+<details>
+  <summary>Table</summary>
+  A table is a two-dimensional data structure with rows and columns. If you've used a spreadsheet program, what it displays is a table. In Snap!, a table is implemented as a list of lists, in which each sublist is one row of the table.
+</details>
+
 
 
 
