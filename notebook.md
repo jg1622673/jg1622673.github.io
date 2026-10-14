@@ -298,6 +298,34 @@ Notice that the hat block, <img width="408" height="75" alt="pinwheel-hat-block"
 
   - <img width="210" height="37" alt="change-score-by-1" src="https://github.com/user-attachments/assets/92ab173d-952b-4f1d-b533-22eac6382355" />(which means <img width="288" height="43" alt="set-score-to-score-plus-one" src="https://github.com/user-attachments/assets/cc81427b-7a71-49f4-9f81-d900805d7578" />) would be written as<img width="132" height="19" alt="score-increment-blocktran" src="https://github.com/user-attachments/assets/299de65d-b3ce-41d7-b00a-8d37b39b6cd1" />
 
+  -The list expression<img width="343" height="27" alt="list-from-who" src="https://github.com/user-attachments/assets/e04646c8-8835-4659-b2f9-d5daa1d71d77" />would be written as [Señora, Ms. C, my cat, Hannah, Jake]. The items are positioned in the list in the order they appear in the text: "Señora" has index 1, "Ms. C" has index 2, and so on.
+
+  -The assignment instruction <img width="239" height="37" alt="example-blank-list-assignment" src="https://github.com/user-attachments/assets/3b3f6287-1ae6-4920-b069-0d6a2603ba4c" />would be written as<img width="127" height="23" alt="shoppinglist-empty-list-assignment-blocktran" src="https://github.com/user-attachments/assets/7b60e690-c5ed-445b-9527-5b53c91a89af" />
+
+  -The assignment instruction<img width="503" height="42" alt="example-list-assignment" src="https://github.com/user-attachments/assets/2c843954-494b-4534-a176-07cb431cad89" />would be written as <img width="372" height="23" alt="shoppinglist-full-list-assignment-blocktran" src="https://github.com/user-attachments/assets/9d0db68d-0514-4568-97b3-0482a11a905d" /> (In this app, you'll want the shopping list to begin empty, and then the user will add or insert additional grocery items one at a time.)
+
+-<img width="370" height="37" alt="insert-tomatoes-at-2-of-shopping-list" src="https://github.com/user-attachments/assets/3343a7d3-ff6b-41b6-b664-90eebfeeb34b" /> would be written as<img width="258" height="23" alt="insert-blocktran" src="https://github.com/user-attachments/assets/8a5a6900-7576-4a8a-bf21-ca7a6dc47d12" />
+
+-<img width="283" height="37" alt="add-tomatoes-to-shopping-list" src="https://github.com/user-attachments/assets/a8bf5393-9971-4b5e-a099-cb73588614d7" /> would be written as <img width="236" height="23" alt="add-blocktran" src="https://github.com/user-attachments/assets/f0bc9efb-9fcc-497a-a673-dee58a27bc27" />
+
+-The items in a list are values, so you can use item of anywhere you can use any other expression. For example:
+You can assign a list item to a variable. On the exam...
+You can assign any value to a list item (a number, a string, a sprite, a costume, a script, another list, etc.). On the exam...
+
+-When you run this script in Snap!, the second line of code assigns to shopping list 2 the value of shopping list (that is, the same list, not a copy). So, the third line of code modifies both variables:<img width="319"height="139" alt="example-list-by-reference-stage" src="https://github.com/user-attachments/assets/af60029a-244b-4728-aa3a-db9401f1ecb8" />
+<img width="364" height="107" alt="example-list-by-reference" src="https://github.com/user-attachments/assets/84eb0899-7aa8-4f54-a3bc-9271f0d7af06" />However on the exam, the statement shoppingList2 ← shoppingList makes a copy of the list. So modifying one of them does not modify the other.
+The rules for how to use lists and how they behave differ depending on the programming language you are using.
+
+
+
+
+
+
+
+
+
+
+
 
 
 
