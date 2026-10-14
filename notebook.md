@@ -244,6 +244,36 @@ The code can be repeated forever, a specific number of times (such as when using
 In Snap! and on the AP exam, the index is always a whole number (1, 2, 3, 4, etc.). It is an error to use an index less than 1 or greater than the length of the list.
 </details>
 
+<details>
+  <summarry>Element</summarry>
+  An element is another name for an item in a list. (If the same value is in the list twice, that counts as two different elements.) Each element has a unique index (position) in the list.
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
