@@ -249,6 +249,26 @@ In Snap! and on the AP exam, the index is always a whole number (1, 2, 3, 4, etc
   An element is another name for an item in a list. (If the same value is in the list twice, that counts as two different elements.) Each element has a unique index (position) in the list.
 </details>
 
+<details>
+  <summary>Sublist</summary>
+  A sublist is a list used as an item of another list.(The word sublist is also used to refer to some subset of a list.)
+</details>
+
+<details>
+  <summary>Data Types</summary>
+  A data type is what kind of data something is (number, text string, list, etc.). For example, number is the data type for the first input to <img width="147" height="27" alt="item" src="https://github.com/user-attachments/assets/62a5f757-28da-4ddf-9ab9-ef0107e7f3bc" />and list is the the data type for its second input.
+Each programming language provides some primitive data types (data types that are built-in). For example, Snap! provides numbers, text (words and sentences), Booleans (true or false), lists, and some you haven't yet used as data (such as sprites and costumes). This menu shows all of Snap!'s primitive types.
+</details>
+
+<details>
+  <summary>Abstract Data Types</summary>
+  An abstract data type (ADT) is a custom data type that's meaningful to your program. It's not built into the language; you develop it as you code. This is an abstraction because it hides the details inside the constructor and selectors so that programmers working with crossing record think about timestamps and events, not list indices.
+  -The <img width="330" height="18" alt="crossing_record" src="https://github.com/user-attachments/assets/1fc0d04c-a817-47d9-9926-003d79facaa8" />block is the constructor; it constructs one example of the data structure. By naming the pieces of the structure, the constructor ensures you build the structure consistently every time.
+  -The selector blocks like<img width="88" height="26" alt="date" src="https://github.com/user-attachments/assets/07de41a2-47d6-4067-95bc-fab5e386b2cd" />,<img width="80" height="23" alt="time" src="https://github.com/user-attachments/assets/338dfa16-b387-4a38-b038-03b8c303867b" />,<img width="205" height="22" alt="seed" src="https://github.com/user-attachments/assets/882ca0ca-d3e5-4cbd-bfb5-add3c5c906ba" />, of crossing record, are the selectors; they each select one piece of the data structure.
+  -The constructor and selector together implement the crossing record abstract data type.
+Data abstraction is the creation and use of abstract data types in a program.
+</details>
+
 
 
 
