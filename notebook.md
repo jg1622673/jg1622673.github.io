@@ -274,6 +274,16 @@ Data abstraction is the creation and use of abstract data types in a program.
   A table is a two-dimensional data structure with rows and columns. If you've used a spreadsheet program, what it displays is a table. In Snap!, a table is implemented as a list of lists, in which each sublist is one row of the table.
 </details>
 
+<details>
+  <summary>Consumption</summary>
+  Using the result from item as the input to date or time is called consumption of functions.
+</details>
+
+<details>
+  <summary>Traversing a List</summary>
+Traversing a list means looking at each item of the list. For each is iterative. That is, it’s repetitive, like for, which can also traverse a list. But unlike for, for each traverses the list without using index numbers.
+</details>
+
 
 
 
@@ -369,6 +379,9 @@ You can assign any value to a list item (a number, a string, a sprite, a costume
 
 -When you run this script in Snap!, the second line of code assigns to shopping list 2 the value of shopping list (that is, the same list, not a copy). So, the third line of code modifies both variables:<img width="319" height="139" alt="example-list-by-reference-stage" src="https://github.com/user-attachments/assets/de5778c0-c2cb-40fe-a65b-4f96ec231380" /><img width="364" height="107" alt="example-list-by-reference" src="https://github.com/user-attachments/assets/84eb0899-7aa8-4f54-a3bc-9271f0d7af06" />However on the exam, the statement shoppingList2 ← shoppingList makes a copy of the list. So modifying one of them does not modify the other.
 The rules for how to use lists and how they behave differ depending on the programming language you are using.
+
+-The script <img width="313" height="88" alt="example-for-each-point" src="https://github.com/user-attachments/assets/c09b208b-5a39-4379-b7dd-245a7d796cb3" /> would be written as<img width="223" height="74" alt="for-each-blocktran" src="https://github.com/user-attachments/assets/05d386c4-9da4-4442-9baa-4df00f3d25ad" />The procedure goto() isn't built in to the AP's language so it is written in lower case like other programmer-defined procedures.
+
 
 
 
