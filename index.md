@@ -2,7 +2,7 @@
 
 ## Projects
 
-Project 1: [EMS Station]([project-1-ems-station.md](https://snap.berkeley.edu/snap/snap.html#present:Username=lvhs1&ProjectName=EMS%20Project%20-%20New%20Starter%20Code%204%2024))
+Project 1: [EMS Station]([project-1-ems-station.md](https://snap.berkeley.edu/snap/snap.html#present:Username=lvhs1&ProjectName=EMS%20Project%20-%20New%20Starter%20Code%204%2024)
   
 Project 2: 
 
