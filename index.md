@@ -2,7 +2,7 @@
 
 ## Projects
 
-Project 1: [EMS Station]
+Project 1: [EMS Station](emsstation.md)
   
 Project 2: 
 
