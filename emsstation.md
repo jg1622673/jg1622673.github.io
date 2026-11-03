@@ -3,7 +3,7 @@
 -I learned how to code lights for the statio. I also learned how to code in a position servo to move the door up and down as the truck was leaving.
 I used coding to make Alonzo move, and when he toched a sprite he would change costumes to the certain occasion.
 
-EMS Link: https://snap.berkeley.edu/snap/snap.html#present:Username=lvhs1&ProjectName=EMS%20Project%20-%20New%20Starter%20Code%204%2024
+[EMS Link]: (https://snap.berkeley.edu/snap/snap.html#present:Username=lvhs1&ProjectName=EMS%20Project%20-%20New%20Starter%20Code%204%2024)
 
 # Challenges I faced:
 I really struggled getting the position servo to work and why I couldn't connect it to the door so I could move it. I also struggled with the Building of the firehouse because my art skills suck and how it's just a box.
