@@ -5,6 +5,12 @@ I used coding to make Alonzo move, and when he toched a sprite he would change c
 
 EMS Link: (https://snap.berkeley.edu/snap/snap.html#present:Username=lvhs1&ProjectName=EMS%20Project%20-%20New%20Starter%20Code%204%20240)
 
+# Challenges I faced:
+I really struggled getting the position servo to work and why I couldn't connect it to the door so I could move it. I also struggled with the Building of the firehouse because my art skills suck and how it's just a box.
+
+# Left unfinished
+Our class ran out of time so my firehouse remained unfinished and so did connecting my position servo to the door so that it would move up and down. 
+
 
 
 
