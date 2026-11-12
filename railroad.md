@@ -13,6 +13,10 @@ This picture is the full code showing how the entire thing ran. It shows how the
 
 
 # The Hummingbird Build
-
+This is what the code ran on. Or this performed the actions. The position servo moves when the train is detected and the light turns on and off as well. 
 <img width="1215" height="911" alt="mail google" src="https://github.com/user-attachments/assets/097f1ffd-3972-4ef9-a13a-c47e2c5d77a7" />
+
+
+# Video of the whole thing working together
+
 
