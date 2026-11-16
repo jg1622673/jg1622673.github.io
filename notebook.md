@@ -294,6 +294,58 @@ Traversing a list means looking at each item of the list. For each is iterative.
   The output type (often called range) of a function is the type of data that it reports as output.
 </details>
 
+<details>
+  <summary>Selection</summary>
+  Selection means deciding (selecting) which part of an algorithm to run based on whether a condition is true or false. (decieding)
+</details>
+
+<details>
+  <summary>Sequencing</summary>
+  Every algorithm can be constructed using sequencing (following steps in order)
+</details>
+
+<details>
+  <summary>Iteration</summary>
+  (repeating)
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -389,6 +441,11 @@ You can assign any value to a list item (a number, a string, a sprite, a costume
 The rules for how to use lists and how they behave differ depending on the programming language you are using.
 
 -The script <img width="313" height="88" alt="example-for-each-point" src="https://github.com/user-attachments/assets/c09b208b-5a39-4379-b7dd-245a7d796cb3" /> would be written as<img width="223" height="74" alt="for-each-blocktran" src="https://github.com/user-attachments/assets/05d386c4-9da4-4442-9baa-4df00f3d25ad" />The procedure goto() isn't built in to the AP's language so it is written in lower case like other programmer-defined procedures.
+
+-You may see these five relational operators: =, >, <, ≥, ≤ as well as a sixth: ≠, which means "not-equal" and reports false if the two inputs are equal and otherwise reports true (if they are not equal). When you write the <img width="90" height="27" alt="not-equal" src="https://github.com/user-attachments/assets/c4eca414-1b99-44eb-81b9-c15afc2e411c" />block, it will work like this:<img width="194" height="44" alt="not-equal-reporting-false" src="https://github.com/user-attachments/assets/0b0bfd99-ca1c-4140-8294-5fc5a74d2c15" />
+<img width="194" height="44" alt="not-equal-reporting-true" src="https://github.com/user-attachments/assets/8eb7fbae-0b12-47f4-b1bb-ba39a45597c7" />These six relational operators all report a Boolean value (true or false).
+
+
 
 
 
