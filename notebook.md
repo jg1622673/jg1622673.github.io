@@ -284,7 +284,15 @@ Data abstraction is the creation and use of abstract data types in a program.
 Traversing a list means looking at each item of the list. For each is iterative. That is, it’s repetitive, like for, which can also traverse a list. But unlike for, for each traverses the list without using index numbers.
 </details>
 
+<details>
+  <summary>Domain</summary>
+  The input type (often called domain by programmers) of a function is the type of data that it accepts as input.
+</details>
 
+<details>
+  <ummary>Range</ummary>
+  The output type (often called range) of a function is the type of data that it reports as output.
+</details>
 
 
 
