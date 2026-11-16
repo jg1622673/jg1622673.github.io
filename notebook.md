@@ -445,6 +445,11 @@ The rules for how to use lists and how they behave differ depending on the progr
 -You may see these five relational operators: =, >, <, ≥, ≤ as well as a sixth: ≠, which means "not-equal" and reports false if the two inputs are equal and otherwise reports true (if they are not equal). When you write the <img width="90" height="27" alt="not-equal" src="https://github.com/user-attachments/assets/c4eca414-1b99-44eb-81b9-c15afc2e411c" />block, it will work like this:<img width="194" height="44" alt="not-equal-reporting-false" src="https://github.com/user-attachments/assets/0b0bfd99-ca1c-4140-8294-5fc5a74d2c15" />
 <img width="194" height="44" alt="not-equal-reporting-true" src="https://github.com/user-attachments/assets/8eb7fbae-0b12-47f4-b1bb-ba39a45597c7" />These six relational operators all report a Boolean value (true or false).
 
+-The<img width="157" height="24" alt="and-full-size" src="https://github.com/user-attachments/assets/1a47776d-0342-4544-bc82-b04f02e96d2c" />,<img width="144" height="24" alt="or" src="https://github.com/user-attachments/assets/82f983d9-ab1b-4e66-af8e-1a5648a5eefe" />, and<img width="104" height="24" alt="not" src="https://github.com/user-attachments/assets/3ac24fad-70c3-42c7-b994-a2b5ec94c72e" />blocks will appear as AND, OR, and NOT and will work exactly the same way as they do in Snap!.
+
+
+
+
 
 
 
