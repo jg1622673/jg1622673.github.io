@@ -19,5 +19,5 @@ This is what the code ran on. Or this performed the actions. The position servo 
 
 
 # Video of the whole thing working together
-
-
+This link will send you to the video showing how my code works and is used by the robot to stop the cars from crashing. 
+[Railroad video](https://drive.google.com/file/d/1wivpRLVA9bSsZq5llzLA8IFVHiw0VkDC/view?usp=sharing)
