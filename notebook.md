@@ -309,6 +309,15 @@ Traversing a list means looking at each item of the list. For each is iterative.
   (repeating)
 </details>
 
+<details>
+  <summary>String</summary>
+  A string is an ordered sequence of characters.
+</details>
+
+<details>
+  <summary>Index</summary>
+  The word index for the position of an element in a list. The same word is used for the position of a character in a string (for example, a letter in a word). So the first input to letter is the index.
+</details>
 
 
 
